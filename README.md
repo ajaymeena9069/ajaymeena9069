@@ -30,15 +30,8 @@
 
 ---
 
-## 📊 GitHub Stats
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajaymeena&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaymeena&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
-- **GitHub**: [ajaymeena](https://github.com/ajaymeena)  
-- **LinkedIn**: [Your LinkedIn Link]  
+- **LinkedIn**: https://www.linkedin.com/in/ajay-meena-0719ab28a/  
 - **Portfolio**: [Your Portfolio Link]  
 
 ---
